@@ -10,7 +10,7 @@ Tujuan utama dari proyek ini adalah untuk menyediakan layanan *backend* (API) si
 ## 🚀 Link Hasil Deployment Vercel
 API telah berhasil di-*deploy* ke Vercel agar dapat diakses secara publik dan diintegrasikan dengan aplikasi *front-end* atau *mobile*.
 
-🔗 **Base URL Vercel:** `[MASUKKAN_LINK_VERCEL_KAMU_DISINI_CONTOH: https://ppb-responsi-loans.vercel.app]`
+🔗 **Base URL Vercel:** `responsi-mod1-finodi-kel14-8g0atw2c3-finodifinod-9871s-projects.vercel.app`
 
 ---
 
