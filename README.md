@@ -10,7 +10,7 @@ Tujuan utama dari proyek ini adalah untuk menyediakan layanan *backend* (API) si
 ## 🚀 Link Hasil Deployment Vercel
 API telah berhasil di-*deploy* ke Vercel agar dapat diakses secara publik dan diintegrasikan dengan aplikasi *front-end* atau *mobile*.
 
-🔗 **Base URL Vercel:** `responsi-mod1-finodi-kel14-8g0atw2c3-finodifinod-9871s-projects.vercel.app`
+🔗 **Base URL Vercel:** `https://responsi-mod1-finodi-kel14.vercel.app`
 
 ---
 
@@ -76,6 +76,9 @@ Jika berhasil, terminal akan menampilkan pesan: `Server running on port 3000`. A
 ---
 
 ## 📡 Contoh Request dan Response (Dokumentasi Endpoint)
+
+kalau ingin menguji melalui vercel, gunakan link ini
+https://responsi-mod1-finodi-kel14.vercel.app/api/loans
 
 Berikut adalah panduan dan contoh hasil pengujian ke-5 endpoint utama menggunakan Postman.
 
