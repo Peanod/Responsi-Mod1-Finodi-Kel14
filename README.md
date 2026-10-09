@@ -47,8 +47,8 @@ Bagi pengembang yang ingin mencoba atau mengembangkan API ini secara lokal, sila
 **1. Clone Repository**
 Buka terminal/Git Bash dan *clone* repositori ini ke komputer Anda:
 ```bash
-git clone https://github.com/Peanodd/ppb-responsi-loans.git
-cd ppb-responsi-loans
+git clone https://github.com/Peanod/Responsi-Mod1-Finodi-Kel14
+cd Responsi-Mod1-Finodi-Kel14
 ```
 
 **2. Instalasi Dependensi**
